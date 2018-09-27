@@ -6,9 +6,9 @@ namespace GitTestApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Oscar was here");
+            Console.WriteLine("Hello GIT!");
+            Console.WriteLine("Byebye baby!");
             Console.ReadLine();
-			//Xianjie do something
         }
     }
 }
