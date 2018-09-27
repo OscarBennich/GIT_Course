@@ -6,11 +6,8 @@ namespace GitTestApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Godbye GIT!");
+            Console.WriteLine("Git sucks!");
             Console.ReadLine();
-			//Xianjie do something
         }
     }
 }
-
-//Niklas kommenterar
