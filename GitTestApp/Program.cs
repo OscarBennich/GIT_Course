@@ -6,7 +6,7 @@ namespace GitTestApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello GIT!");
+            Console.WriteLine("Godbye GIT!");
             Console.ReadLine();
         }
     }
