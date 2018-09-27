@@ -8,7 +8,9 @@ namespace GitTestApp
         {
             Console.WriteLine("Godbye GIT!");
             Console.ReadLine();
-			//Change
+			//Xianjie do something
         }
     }
 }
+
+//Niklas kommenterar
