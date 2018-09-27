@@ -6,8 +6,8 @@ namespace GitTestApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Oscar was here");
-            Console.ReadLine();
+            Console.WriteLine("Oscar was here");            
+			Console.ReadLine();
         }
     }
 }
