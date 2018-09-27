@@ -12,5 +12,3 @@ namespace GitTestApp
         }
     }
 }
-
-//Niklas kommenterar
